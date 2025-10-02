@@ -1,8 +1,6 @@
 /*
 GFG 160 Days Challenge - Day 3: Reverse an Array
 ------------------------------------------------
-Problem Statement:
-------------------
 You are given an array of integers arr[]. You have to reverse the given array.
 
 Note: Modify the array in place.
