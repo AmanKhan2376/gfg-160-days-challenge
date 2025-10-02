@@ -1,8 +1,6 @@
 /*
 GFG 160 Days Challenge - Day 2: Move All Zeroes to End
 ------------------------------------------------------
-Problem Statement:
-------------------
 You are given an array arr[] of non-negative integers. 
 You have to move all the zeros in the array to the right end while maintaining 
 the relative order of the non-zero elements. 
